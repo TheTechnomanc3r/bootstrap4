@@ -1,0 +1,14 @@
+body {
+    font-family: 'Golos Text', sans-serif;
+    background-color: lightgoldenrodyellow
+}
+
+.callout-container {
+    height: 100vh
+
+    background: url('../images/whiskey-bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
