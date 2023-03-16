@@ -29,6 +29,11 @@ body {
     background-size: cover;
 }
 
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
 
 /* Navbar */
 
@@ -60,4 +65,23 @@ body {
     color: white;
     background-color: #f05f40;
     border-color: #f05f40;
+}
+
+/* Page Headers */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
 }
